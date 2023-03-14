@@ -1,0 +1,6 @@
+@article{REPO-229,
+    author = "Bardes, Adrien and Ponce, Jean and LeCun, Yann",
+    journal = "arXiv preprint arXiv:2105.04906",
+    title = "{Vicreg: Variance-invariance-covariance Regularization for Self-supervised Learning}",
+    year = "2021"
+}
